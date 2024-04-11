@@ -5,7 +5,7 @@ export default function FullSatck(){
     <div className="row">
         <div className="col-sm-12 col-md-6 col-lg-4 col-xl-3 col-xxl-3 py-3">
             <div className="card h-100 mb-3">
-                <img src="./src/assets/images/MERN_Image.jpg" className="card-img-top" alt="" />
+                <img src="./src/assets/MERN_Image.jpg" className="card-img-top" alt="" />
                 <div className="card-body">
                 <h5 className="card-title">Fullstack Development: MERN Stack</h5>
                 <p className="card-text">Learn how to connect ReactJS with NodeJS, Express & MongoDB. 
@@ -17,7 +17,7 @@ export default function FullSatck(){
 
         <div className="col-sm-12 col-md-6 col-lg-4 col-xl-3 col-xxl-3 py-3">
             <div className="card h-100 mb-3">
-                <img src="./src/assets/images/MEAN_Image.png" className="card-img-top" alt="" />
+                <img src="./src/assets/MEAN_Image.png" className="card-img-top" alt="" />
                 <div className="card-body">
                 <h5 className="card-title">Fullstack Development: MEAN Stack</h5>
                 <p className="card-text">Build real Angular + NodeJS applications. 
@@ -30,7 +30,7 @@ export default function FullSatck(){
 
         <div className="col-sm-12 col-md-6 col-lg-4 col-xl-3 col-xxl-3 py-3">
             <div className="card h-100 mb-3">
-                <img src="./src/assets/images/PYTHON_Image.jpeg" className="card-img-top" alt="" />
+                <img src="./src/assets/PYTHON_Image.jpeg" className="card-img-top" alt="" />
                 <div className="card-body">
                 <h5 className="card-title">Java SpringBoot Fullstack Development</h5>
                 <p className="card-text">Proficiency in Java 11, Full stack Java Development with Java, Mss ql, Spring, Hibernate.
@@ -42,7 +42,7 @@ export default function FullSatck(){
 
         <div className="col-sm-12 col-md-6 col-lg-4 col-xl-3 col-xxl-3 py-3">
             <div className="card h-100 mb-3">
-                <img src="./src/assets/images/JAVA_Image.jpeg" className="card-img-top" alt="" />
+                <img src="./src/assets/JAVA_Image.jpeg" className="card-img-top" alt="" />
                 <div className="card-body">
                 <h5 className="card-title">Python Fullstack Development</h5>
                 <p className="card-text">Create a fully functional web site using the Full-Stack with Django.
@@ -54,7 +54,7 @@ export default function FullSatck(){
 
         <div className="col-sm-12 col-md-6 col-lg-4 col-xl-3 col-xxl-3 py-3">
             <div className="card h-100 mb-3">
-                <img src="./src/assets/images/PYTHON_Image.jpeg" className="card-img-top" alt="" />
+                <img src="./src/assets/PYTHON_Image.jpeg" className="card-img-top" alt="" />
                 <div className="card-body">
                 <h5 className="card-title">Java SpringBoot Fullstack Development</h5>
                 <p className="card-text">Proficiency in Java 11, Full stack Java Development with Java, Mss ql, Spring, Hibernate.
@@ -66,7 +66,7 @@ export default function FullSatck(){
 
         <div className="col-sm-12 col-md-6 col-lg-4 col-xl-3 col-xxl-3 py-3">
             <div className="card h-100 mb-3">
-                <img src="./src/assets/images/JAVA_Image.jpeg" className="card-img-top" alt="" />
+                <img src="./src/assets/JAVA_Image.jpeg" className="card-img-top" alt="" />
                 <div className="card-body">
                 <h5 className="card-title">Python Fullstack Development</h5>
                 <p className="card-text">Create a fully functional web site using the Full-Stack with Django.
