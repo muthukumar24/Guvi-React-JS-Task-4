@@ -5,7 +5,7 @@ export default function DataScience(){
                 <div className="row">
                     <div className="col-sm-12 col-md-6 col-lg-4 col-xl-3 col-xxl-3 py-3">
                         <div className="card h-100 mb-3">
-                                <img src="./src/assets/PYTHON_For_DataScience.jpg" className="card-img-top" alt="" />
+                                <img src="./public/PYTHON_For_DataScience.jpg" className="card-img-top" alt="" />
                                 <div className="card-body">
                                     <h5 className="card-title">Python for Machine Learning and Data Science</h5>
                                     <p className="card-text">You will learn how to use data science and machine learning with Python.
@@ -18,7 +18,7 @@ export default function DataScience(){
 
                     <div className="col-sm-12 col-md-6 col-lg-4 col-xl-3 col-xxl-3 py-3">
                         <div className="card h-100 mb-3">
-                            <img src="./src/assets/DATA_SCIENCE_Img.jpg" className="card-img-top" alt="" />
+                            <img src="./public/DATA_SCIENCE_Img.jpg" className="card-img-top" alt="" />
                             <div className="card-body">
                                 <h5 className="card-title">Data Science A-Z: Hands-On Exercise</h5>
                                 <p className="card-text">Successfully perform all steps in a complex Data Science project.
@@ -31,7 +31,7 @@ export default function DataScience(){
 
                     <div className="col-sm-12 col-md-6 col-lg-4 col-xl-3 col-xxl-3 py-3">
                         <div className="card h-100 mb-3">
-                            <img src="./src/assets/DATA_SCIENCE_Img_2.jpg" className="card-img-top" alt="" />
+                            <img src="./public/DATA_SCIENCE_Img_2.jpg" className="card-img-top" alt="" />
                             <div className="card-body">
                                 <h5 className="card-title">Data Science in Python: Data Prep & EDA</h5>
                                 <p className="card-text">Master the core building blocks of Python for data science BEFORE applying machine learning algorithms.
@@ -44,7 +44,7 @@ export default function DataScience(){
 
                     <div className="col-sm-12 col-md-6 col-lg-4 col-xl-3 col-xxl-3 py-3">
                         <div className="card h-100 mb-3">
-                            <img src="./src/assets/STATISTICS_IMG.jpg" className="card-img-top" alt="" />
+                            <img src="./public/STATISTICS_IMG.jpg" className="card-img-top" alt="" />
                             <div className="card-body">
                                 <h5 className="card-title">Statistics for Data Science and Business Analysis</h5>
                                 <p className="card-text">Understand the fundamentals of statistics.
@@ -57,7 +57,7 @@ export default function DataScience(){
 
                     <div className="col-sm-12 col-md-6 col-lg-4 col-xl-3 col-xxl-3 py-3">
                         <div className="card h-100 mb-3">
-                            <img src="./src/assets/DATA_SCIENCE_Img.jpg" className="card-img-top" alt="" />
+                            <img src="./public/DATA_SCIENCE_Img.jpg" className="card-img-top" alt="" />
                             <div className="card-body">
                                 <h5 className="card-title">Data Science A-Z: Hands-On Exercise</h5>
                                 <p className="card-text">Successfully perform all steps in a complex Data Science project.
@@ -70,7 +70,7 @@ export default function DataScience(){
 
                     <div className="col-sm-12 col-md-6 col-lg-4 col-xl-3 col-xxl-3 py-3">
                         <div className="card h-100 mb-3">
-                            <img src="./src/assets/STATISTICS_IMG.jpg" className="card-img-top" alt="" />
+                            <img src="./public/STATISTICS_IMG.jpg" className="card-img-top" alt="" />
                             <div className="card-body">
                                 <h5 className="card-title">Statistics for Data Science and Business Analysis</h5>
                                 <p className="card-text">Understand the fundamentals of statistics.
