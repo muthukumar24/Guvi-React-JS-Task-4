@@ -77,7 +77,7 @@ export default function All(){
 
                     <div className="col-sm-12 col-md-6 col-lg-4 col-xl-3 col-xxl-3 py-3">
                         <div className="card h-100">
-                            <img src="./public/images/leadership-img.png" className="card-img-top" alt="" />
+                            <img src="./images/leadership.jpg" className="card-img-top" alt="" />
                             <div className="card-body">
                                 <h5 className="card-title">Leadership: Essential for Career Development</h5>
                                 <p className="card-text">You will learn the skill sets necessary to lead at all levels and excel in your career.</p>
