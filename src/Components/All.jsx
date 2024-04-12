@@ -4,7 +4,7 @@ export default function All(){
                 <div className="row">
                     <div className="col-sm-12 col-md-6 col-lg-4 col-xl-3 col-xxl-3 py-3">
                         <div className="card h-100 mb-3">
-                            <img src="./src/assets/MERN_Image.jpg" className="card-img-top" alt="" />
+                            <img src="./images/MERN_Image.jpg" className="card-img-top" alt="" />
                             <div className="card-body">
                                 <h5 className="card-title">Fullstack Development: MERN Stack</h5>
                                 <p className="card-text">Learn how to connect ReactJS with NodeJS, Express & MongoDB. 
@@ -16,7 +16,7 @@ export default function All(){
 
                     <div className="col-sm-12 col-md-6 col-lg-4 col-xl-3 col-xxl-3 py-3">
                         <div className="card h-100 mb-3">
-                            <img src="./src/assets/MEAN_Image.png" className="card-img-top" alt="" />
+                            <img src="./images/MEAN_Image.png" className="card-img-top" alt="" />
                             <div className="card-body">
                                 <h5 className="card-title">Fullstack Development: MEAN Stack</h5>
                                 <p className="card-text">Build real Angular + NodeJS applications. 
@@ -29,7 +29,7 @@ export default function All(){
 
                     <div className="col-sm-12 col-md-6 col-lg-4 col-xl-3 col-xxl-3 py-3">
                          <div className="card h-100 mb-3">
-                            <img src="./src/assets/cybersecurity-1.jpg" className="card-img-top" alt="" />
+                            <img src="./images/cybersecurity-1.jpg" className="card-img-top" alt="" />
                              <div className="card-body">
                                 <h5 className="card-title">The Complete Cyber Security Course : Hackers Exposed</h5>
                                 <p className="card-text">An advanced practical skillset in defeating all online threats - advanced hackers, trackers, malware and all Internet nastiness & govenment mass surveillance.</p>
@@ -40,7 +40,7 @@ export default function All(){
 
                     <div className="col-sm-12 col-md-6 col-lg-4 col-xl-3 col-xxl-3 py-3">
                         <div className="card h-100 mb-3">
-                            <img src="./src/assets/cybersecurity-2.jpg" className="card-img-top" alt="" />
+                            <img src="./images/cybersecurity-2.jpg" className="card-img-top" alt="" />
                             <div className="card-body">
                             <h5 className="card-title">2024 Brginners Guide To Cyber Security</h5>
                             <p className="card-text">Cybersecurity Basics: Learn the essential concepts of cybersecurity and the CIA (Confidentiality, Integrity, and Availability) rating.</p>
@@ -51,7 +51,7 @@ export default function All(){
 
                     <div className="col-sm-12 col-md-6 col-lg-4 col-xl-3 col-xxl-3 py-3">
                         <div className="card h-100 mb-3">
-                            <img src="./src/assets/DATA_SCIENCE_Img.jpg" className="card-img-top" alt="" />
+                            <img src="./images/DATA_SCIENCE_Img.jpg" className="card-img-top" alt="" />
                             <div className="card-body">
                                 <h5 className="card-title">Data Science A-Z: Hands-On Exercise</h5>
                                 <p className="card-text">Successfully perform all steps in a complex Data Science project.
@@ -64,7 +64,7 @@ export default function All(){
 
                     <div className="col-sm-12 col-md-6 col-lg-4 col-xl-3 col-xxl-3 py-3">
                         <div className="card h-100 mb-3">
-                            <img src="./src/assets/STATISTICS_IMG.jpg" className="card-img-top" alt="" />
+                            <img src="./images/STATISTICS_IMG.jpg" className="card-img-top" alt="" />
                             <div className="card-body">
                                 <h5 className="card-title">Statistics for Data Science and Business Analysis</h5>
                                 <p className="card-text">Understand the fundamentals of statistics.
@@ -77,7 +77,7 @@ export default function All(){
 
                     <div className="col-sm-12 col-md-6 col-lg-4 col-xl-3 col-xxl-3 py-3">
                         <div className="card h-100">
-                            <img src="./src/assets/leadership-img.png" className="card-img-top" alt="" />
+                            <img src="./public/images/leadership-img.png" className="card-img-top" alt="" />
                             <div className="card-body">
                                 <h5 className="card-title">Leadership: Essential for Career Development</h5>
                                 <p className="card-text">You will learn the skill sets necessary to lead at all levels and excel in your career.</p>
@@ -88,7 +88,7 @@ export default function All(){
 
                     <div className="col-sm-12 col-md-6 col-lg-4 col-xl-3 col-xxl-3 py-3">
                         <div className="card h-100">
-                            <img src="./src/assets/AngerManagement-img.png" className="card-img-top" alt="" />
+                            <img src="./images/AngerManagement-img.png" className="card-img-top" alt="" />
                             <div className="card-body">
                                 <h5 className="card-title">Anger Management</h5>
                                 <p className="card-text">UNLEASHING the Power of Emotions: Mastering Anger Dynamics.
