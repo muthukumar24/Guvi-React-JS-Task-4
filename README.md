@@ -13,8 +13,10 @@ This Repository is created for submitting the allocated task from React JS Day 6
 
 The given task is to create a web page with routes using react-router-dom.
 
+Application Flow:
+
 - The web page will render datas based on the link clicked by user.
-- The navigation bar will remain fixed, Datas will get rendered without refreshing the web page.
+- The navigation bar remain fixed, Datas will get rendered according to the link clicked by user, without refreshing the web page.
 
 Please refer the following files for Source Code:
 - index.html
@@ -25,5 +27,7 @@ Please refer the following files for Source Code:
 - src/Components/DataScience.jsx
 - src/Components/FullStackDevelopment.jsx
 - src/assets/styles/style.css
+
+Please refer "Public" Folder for Images that are used in application and Attached screenshots for your refrence under "Screenshots" folder.
 
 Thankyou and Awaiting Feedback.

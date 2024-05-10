@@ -1,13 +1,16 @@
+/* Body BAckground Style */
 body
 {
     background-color: rgb(240, 240, 240);
 }
 
+/* Course Cards style */
 .card:hover 
 {
     box-shadow: 0 0 15px rgba(0, 0, 0, 0.3);
 }
 
+/* Link style */
 .link
 {
     text-transform: uppercase;
@@ -23,6 +26,7 @@ body
     text-shadow: 0 0 15px rgba(17, 161, 22, 0.4);
 }
 
+/* Know More link style */
 .know-more-link
 {
     color: black;
@@ -33,7 +37,7 @@ body
     color: rgb(0, 0, 255);
 }
 
-
+/* Media Query for Responsiveness */
 @media screen and (max-width:576px) {
     .link
     {
