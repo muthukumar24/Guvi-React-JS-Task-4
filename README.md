@@ -11,12 +11,13 @@ Currently, two official plugins are available:
 
 This Repository is created for submitting the allocated task from React JS Day 6 session.
 
-The given task is to create a web page with routes using react-router-dom.
+The given task is to create a web page with react router using react-router-dom.
 
 Application Flow:
 
 - The web page will render datas based on the link clicked by user.
-- The navigation bar remain fixed, Datas will get rendered according to the link clicked by user, without refreshing the web page.
+- Course cards will get rendered according to the link clicked by user, available in Navigation Menu without refreshing the web page.
+- Available links are - All, Fullstack Development, Data Science, Cyber Security, Career.
 
 Please refer the following files for Source Code:
 - index.html

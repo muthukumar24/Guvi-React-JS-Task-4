@@ -8,7 +8,7 @@ import DataScience from "./Components/DataScience"; // Importing the component f
 function App() {
 
     return (
-    <div>
+    <>
       {/* Navigation bar */}
       <nav>
         <div className="container d-flex justify-content-evenly mt-4">
@@ -39,7 +39,7 @@ function App() {
             <Route Component={Career} path="/career" />
           </Routes>
         </div>
-    </div>
+    </>
   )
 }
 
