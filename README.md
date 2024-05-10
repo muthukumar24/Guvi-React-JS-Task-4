@@ -29,6 +29,6 @@ Please refer the following files for Source Code:
 - src/Components/FullStackDevelopment.jsx
 - src/assets/styles/style.css
 
-Please refer "Public" Folder for Images that are used in application and Attached screenshots for your refrence under "Screenshots" folder.
+Please refer "Public" Folder for Images that are used in application and Attached screenshots for your reference under "Screenshots" folder.
 
 Thankyou and Awaiting Feedback.
